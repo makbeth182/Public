@@ -1,8 +1,5 @@
-import pytest
-from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.firefox.options import Options as OptionsFirefox
-
 import pytest
 from selenium import webdriver
 
